@@ -87,10 +87,4 @@ You can use this repository as a foundation for your Laravel project that follow
 
 Feel free to explore the code and customize it according to your needs.
 
-## License
-
-This project is open-source and licensed under the [MIT License](LICENSE). You are welcome to use, modify, and contribute to it.
-
-For additional information and updates, please visit the [GitHub repository](https://github.com/kaushalyasenarathna/LARAVEL-REPOSITORY-PATTERN).
-
-Happy coding!
+ 
